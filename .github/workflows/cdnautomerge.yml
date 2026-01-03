@@ -16,7 +16,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Merge to Main
+      - name: Merge and Delete
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -28,6 +28,7 @@ jobs:
           
           if git merge "origin/$BRANCH_NAME"; then
             git push origin main
+            git push origin --delete "$BRANCH_NAME"
           else
             exit 1
           fi
