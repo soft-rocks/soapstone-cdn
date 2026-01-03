@@ -1,0 +1,17 @@
+name: Auto Merge CDN
+on:
+  push:
+    branches:
+      - 'cnd/*'
+
+jobs:
+  automerge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: merge-branch
+        uses: devmasx/merge-branch@master
+        with:
+          type: now
+          from_branch: ${{ github.ref_name }}
+          target_branch: 'main'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
