@@ -2,7 +2,7 @@ name: Auto Merge CDN
 on:
   push:
     branches:
-      - 'cnd/*'
+      - 'cdn/*'
 
 jobs:
   automerge:
