@@ -6,34 +6,30 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   automerge:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Set Git Identity
+      - name: Merge to Main
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: merge-branch
-        uses: devmasx/merge-branch@master
-        with:
-          type: now
-          from_branch: ${{ github.ref_name }}
-          target_branch: 'main'
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Delete origin branch
-        if: success()
-        run: |
-          echo "Merging successful, deleting branch ${{ github.ref_name }}..."
-          gh api -X DELETE /repos/${{ github.repository }}/git/refs/heads/${{ github.ref_name }}
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          BRANCH_NAME="${{ github.ref_name }}"
+          
+          git checkout main
+          git pull origin main
+          
+          if git merge "origin/$BRANCH_NAME"; then
+            git push origin main
+          else
+            exit 1
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
