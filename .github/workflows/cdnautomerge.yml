@@ -12,6 +12,16 @@ jobs:
   automerge:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set Git Identity
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: merge-branch
         uses: devmasx/merge-branch@master
         with:
@@ -19,6 +29,7 @@ jobs:
           from_branch: ${{ github.ref_name }}
           target_branch: 'main'
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Delete origin branch
         if: success()
         run: |
