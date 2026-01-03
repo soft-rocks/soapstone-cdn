@@ -28,7 +28,7 @@ jobs:
           
           if git merge "origin/$BRANCH_NAME"; then
             git push origin main
-            git push origin --delete "$BRANCH_NAME"
+            git push origin --delete "$BRANCH_NAME" || true
           else
             exit 1
           fi
