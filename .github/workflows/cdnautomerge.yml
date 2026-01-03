@@ -19,3 +19,10 @@ jobs:
           from_branch: ${{ github.ref_name }}
           target_branch: 'main'
           github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Delete origin branch
+        if: success()
+        run: |
+          echo "Merging successful, deleting branch ${{ github.ref_name }}..."
+          gh api -X DELETE /repos/${{ github.repository }}/git/refs/heads/${{ github.ref_name }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
