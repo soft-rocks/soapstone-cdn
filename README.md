@@ -1,2 +1,2 @@
 # Soapstone CDN
-- https://statically.io/
+- https://cdn.jsdelivr.net/
