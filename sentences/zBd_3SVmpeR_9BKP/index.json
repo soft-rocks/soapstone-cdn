@@ -6,7 +6,15 @@
   },
   "word_tokens": [
     {
-      "text": "Don't",
+      "text": "Don",
+      "is_masked": true
+    },
+    {
+      "text": "'",
+      "is_masked": false
+    },
+    {
+      "text": "t",
       "is_masked": true
     },
     {
