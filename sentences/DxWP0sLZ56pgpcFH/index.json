@@ -1,0 +1,86 @@
+{
+  "link": "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/DxWP0sLZ56pgpcFH/index.json",
+  "original": "It's possible that the flight will be cancelled.",
+  "translations": {
+    "zhtw": "班機有可能會取消。"
+  },
+  "word_tokens": [
+    {
+      "text": "It",
+      "is_masked": true
+    },
+    {
+      "text": "'",
+      "is_masked": false
+    },
+    {
+      "text": "s",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "possible",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "that",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "the",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "flight",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "will",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "be",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "cancelled",
+      "is_masked": true
+    },
+    {
+      "text": ".",
+      "is_masked": false
+    }
+  ],
+  "audios": [
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/DxWP0sLZ56pgpcFH/audio/en/blur800L3.mp3",
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/DxWP0sLZ56pgpcFH/audio/en/blur800.mp3",
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/DxWP0sLZ56pgpcFH/audio/en/clear.mp3"
+  ]
+}
