@@ -1,0 +1,90 @@
+{
+  "link": "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/Xlsr8D1qbZRhmwwV/index.json",
+  "original": "While walking to school, I met an old friend.",
+  "translations": {
+    "zhtw": "走路去學校的時候，我遇到一個老朋友。"
+  },
+  "word_tokens": [
+    {
+      "text": "While",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "walking",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "to",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "school",
+      "is_masked": true
+    },
+    {
+      "text": ",",
+      "is_masked": false
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "I",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "met",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "an",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "old",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "friend",
+      "is_masked": true
+    },
+    {
+      "text": ".",
+      "is_masked": false
+    }
+  ],
+  "audios": [
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/Xlsr8D1qbZRhmwwV/audio/en/blur800L3.mp3",
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/Xlsr8D1qbZRhmwwV/audio/en/blur800.mp3",
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/Xlsr8D1qbZRhmwwV/audio/en/clear.mp3"
+  ]
+}
