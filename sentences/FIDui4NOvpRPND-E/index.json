@@ -1,0 +1,82 @@
+{
+  "link": "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/FIDui4NOvpRPND-E/index.json",
+  "original": "If Ann feels nervous, she talks very fast.",
+  "translations": {
+    "zhtw": "如果 Ann 覺得緊張，她說話就會很快。"
+  },
+  "word_tokens": [
+    {
+      "text": "If",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "Ann",
+      "is_masked": false
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "feels",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "nervous",
+      "is_masked": true
+    },
+    {
+      "text": ",",
+      "is_masked": false
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "she",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "talks",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "very",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "fast",
+      "is_masked": true
+    },
+    {
+      "text": ".",
+      "is_masked": false
+    }
+  ],
+  "audios": [
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/FIDui4NOvpRPND-E/audio/en/blur800L3.mp3",
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/FIDui4NOvpRPND-E/audio/en/blur800.mp3",
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/FIDui4NOvpRPND-E/audio/en/clear.mp3"
+  ]
+}
