@@ -1,0 +1,122 @@
+{
+  "link": "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/CDAmvunak6skNgII/index.json",
+  "original": "Her favorite colors are blue and black, so she bought the black bag.",
+  "translations": {
+    "zhtw": "她最喜歡的顏色是藍色和黑色，所以她買了那個黑色包包。"
+  },
+  "word_tokens": [
+    {
+      "text": "Her",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "favorite",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "colors",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "are",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "blue",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "and",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "black",
+      "is_masked": true
+    },
+    {
+      "text": ",",
+      "is_masked": false
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "so",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "she",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "bought",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "the",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "black",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "bag",
+      "is_masked": true
+    },
+    {
+      "text": ".",
+      "is_masked": false
+    }
+  ],
+  "audios": [
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/CDAmvunak6skNgII/audio/en/blur800L3.mp3",
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/CDAmvunak6skNgII/audio/en/blur800.mp3",
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/CDAmvunak6skNgII/audio/en/clear.mp3"
+  ]
+}
