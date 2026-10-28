@@ -1,0 +1,102 @@
+{
+  "link": "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/sczhS9e_oEEttsUV/index.json",
+  "original": "My laptop is crashing every time I open a big file.",
+  "translations": {
+    "zhtw": "我的筆電最近每次打開大檔案就當機。"
+  },
+  "word_tokens": [
+    {
+      "text": "My",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "laptop",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "is",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "crashing",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "every",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "time",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "I",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "open",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "a",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "big",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "file",
+      "is_masked": true
+    },
+    {
+      "text": ".",
+      "is_masked": false
+    }
+  ],
+  "audios": [
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/sczhS9e_oEEttsUV/audio/en/blur800L3.mp3",
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/sczhS9e_oEEttsUV/audio/en/blur800.mp3",
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/sczhS9e_oEEttsUV/audio/en/clear.mp3"
+  ]
+}
