@@ -1,0 +1,102 @@
+{
+  "link": "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/FysoAC4vIM8MfTGX/index.json",
+  "original": "\"Must we finish the whole book?\" \"Yes, we must.\"",
+  "translations": {
+    "zhtw": "「我們一定要讀完整本書嗎？」「對，一定要。」"
+  },
+  "word_tokens": [
+    {
+      "text": "\"",
+      "is_masked": false
+    },
+    {
+      "text": "Must",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "we",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "finish",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "the",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "whole",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "book",
+      "is_masked": true
+    },
+    {
+      "text": "?\"",
+      "is_masked": false
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "\"",
+      "is_masked": false
+    },
+    {
+      "text": "Yes",
+      "is_masked": true
+    },
+    {
+      "text": ",",
+      "is_masked": false
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "we",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "must",
+      "is_masked": true
+    },
+    {
+      "text": ".\"",
+      "is_masked": false
+    }
+  ],
+  "audios": [
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/FysoAC4vIM8MfTGX/audio/en/blur800L3.mp3",
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/FysoAC4vIM8MfTGX/audio/en/blur800.mp3",
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/FysoAC4vIM8MfTGX/audio/en/clear.mp3"
+  ]
+}
