@@ -1,0 +1,42 @@
+{
+  "link": "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/MmTPI1LdiTegWUBT/index.json",
+  "original": "Previous experience? None.",
+  "translations": {
+    "zhtw": "過去的經驗？沒有。"
+  },
+  "word_tokens": [
+    {
+      "text": "Previous",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "experience",
+      "is_masked": true
+    },
+    {
+      "text": "?",
+      "is_masked": false
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "None",
+      "is_masked": true
+    },
+    {
+      "text": ".",
+      "is_masked": false
+    }
+  ],
+  "audios": [
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/MmTPI1LdiTegWUBT/audio/en/blur800L3.mp3",
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/MmTPI1LdiTegWUBT/audio/en/blur800.mp3",
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/MmTPI1LdiTegWUBT/audio/en/clear.mp3"
+  ]
+}
