@@ -2,12 +2,12 @@
   "link": "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/EedGw7mKC9Ah3Lsc/index.json",
   "original": "Tom finally realized his dream of becoming an astronaut, but at the expense of many other things.",
   "translations": {
-    "zhtw": "湯姆終於實現了當太空人的夢想，可是犧牲了很多其他的東西。"
+    "zhtw": "Tom 終於實現了當太空人的夢想，可是犧牲了很多其他的東西。"
   },
   "word_tokens": [
     {
       "text": "Tom",
-      "is_masked": false
+      "is_masked": true
     },
     {
       "text": " ",
