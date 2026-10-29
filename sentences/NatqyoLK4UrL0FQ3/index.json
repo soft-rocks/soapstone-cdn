@@ -7,7 +7,7 @@
   "word_tokens": [
     {
       "text": "Professor",
-      "is_masked": false
+      "is_masked": true
     },
     {
       "text": " ",
@@ -15,7 +15,7 @@
     },
     {
       "text": "Lin",
-      "is_masked": true
+      "is_masked": false
     },
     {
       "text": " ",
