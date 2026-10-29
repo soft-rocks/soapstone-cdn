@@ -1,0 +1,78 @@
+{
+  "link": "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/2sn65ZayNkUtSHoh/index.json",
+  "original": "My kids really really enjoyed the water park.",
+  "translations": {
+    "zhtw": "我的孩子真的真的很喜歡那座水上樂園。"
+  },
+  "word_tokens": [
+    {
+      "text": "My",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "kids",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "really",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "really",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "enjoyed",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "the",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "water",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "park",
+      "is_masked": true
+    },
+    {
+      "text": ".",
+      "is_masked": false
+    }
+  ],
+  "audios": [
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/2sn65ZayNkUtSHoh/audio/en/blur800L3.mp3",
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/2sn65ZayNkUtSHoh/audio/en/blur800.mp3",
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/2sn65ZayNkUtSHoh/audio/en/clear.mp3"
+  ]
+}
