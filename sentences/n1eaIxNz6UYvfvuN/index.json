@@ -1,0 +1,126 @@
+{
+  "link": "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/n1eaIxNz6UYvfvuN/index.json",
+  "original": "Hello, it's the dentist's office. We need to change your appointment.",
+  "translations": {
+    "zhtw": "您好，這裡是牙醫診所。我們需要改您的預約時間。"
+  },
+  "word_tokens": [
+    {
+      "text": "Hello",
+      "is_masked": true
+    },
+    {
+      "text": ",",
+      "is_masked": false
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "it",
+      "is_masked": true
+    },
+    {
+      "text": "'",
+      "is_masked": false
+    },
+    {
+      "text": "s",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "the",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "dentist",
+      "is_masked": true
+    },
+    {
+      "text": "'",
+      "is_masked": false
+    },
+    {
+      "text": "s",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "office",
+      "is_masked": true
+    },
+    {
+      "text": ".",
+      "is_masked": false
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "We",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "need",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "to",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "change",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "your",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "appointment",
+      "is_masked": true
+    },
+    {
+      "text": ".",
+      "is_masked": false
+    }
+  ],
+  "audios": [
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/n1eaIxNz6UYvfvuN/audio/en/blur800L3.mp3",
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/n1eaIxNz6UYvfvuN/audio/en/blur800.mp3",
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/n1eaIxNz6UYvfvuN/audio/en/clear.mp3"
+  ]
+}

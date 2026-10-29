@@ -1,0 +1,110 @@
+{
+  "link": "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/s0HWeFRoN9WIOZPJ/index.json",
+  "original": "\"Who sent me these flowers?\" \"It was me. Happy anniversary!\"",
+  "translations": {
+    "zhtw": "「這些花是誰送我的？」「是我。結婚紀念日快樂！」"
+  },
+  "word_tokens": [
+    {
+      "text": "\"",
+      "is_masked": false
+    },
+    {
+      "text": "Who",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "sent",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "me",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "these",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "flowers",
+      "is_masked": true
+    },
+    {
+      "text": "?\"",
+      "is_masked": false
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "\"",
+      "is_masked": false
+    },
+    {
+      "text": "It",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "was",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "me",
+      "is_masked": true
+    },
+    {
+      "text": ".",
+      "is_masked": false
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "Happy",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "anniversary",
+      "is_masked": true
+    },
+    {
+      "text": "!\"",
+      "is_masked": false
+    }
+  ],
+  "audios": [
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/s0HWeFRoN9WIOZPJ/audio/en/blur800L3.mp3",
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/s0HWeFRoN9WIOZPJ/audio/en/blur800.mp3",
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/s0HWeFRoN9WIOZPJ/audio/en/clear.mp3"
+  ]
+}

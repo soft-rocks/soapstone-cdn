@@ -1,0 +1,130 @@
+{
+  "link": "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/J3zu034xxXITZ3OF/index.json",
+  "original": "\"Hello, who's speaking, please?\" \"It's Laura from the travel agency.\"",
+  "translations": {
+    "zhtw": "「您好，請問哪位？」「我是旅行社的 Laura。」"
+  },
+  "word_tokens": [
+    {
+      "text": "\"",
+      "is_masked": false
+    },
+    {
+      "text": "Hello",
+      "is_masked": true
+    },
+    {
+      "text": ",",
+      "is_masked": false
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "who",
+      "is_masked": true
+    },
+    {
+      "text": "'",
+      "is_masked": false
+    },
+    {
+      "text": "s",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "speaking",
+      "is_masked": true
+    },
+    {
+      "text": ",",
+      "is_masked": false
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "please",
+      "is_masked": true
+    },
+    {
+      "text": "?\"",
+      "is_masked": false
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "\"",
+      "is_masked": false
+    },
+    {
+      "text": "It",
+      "is_masked": true
+    },
+    {
+      "text": "'",
+      "is_masked": false
+    },
+    {
+      "text": "s",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "Laura",
+      "is_masked": false
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "from",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "the",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "travel",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "agency",
+      "is_masked": true
+    },
+    {
+      "text": ".\"",
+      "is_masked": false
+    }
+  ],
+  "audios": [
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/J3zu034xxXITZ3OF/audio/en/blur800L3.mp3",
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/J3zu034xxXITZ3OF/audio/en/blur800.mp3",
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/J3zu034xxXITZ3OF/audio/en/clear.mp3"
+  ]
+}
