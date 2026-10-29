@@ -1,0 +1,158 @@
+{
+  "link": "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/OInD_FMXvj6AsbES/index.json",
+  "original": "Nobody saw Tom leave the office party. Before he left, he had said goodbye to his manager.",
+  "translations": {
+    "zhtw": "沒有人看到湯姆離開公司的派對。他離開之前已經跟他的經理道別了。"
+  },
+  "word_tokens": [
+    {
+      "text": "Nobody",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "saw",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "Tom",
+      "is_masked": false
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "leave",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "the",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "office",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "party",
+      "is_masked": true
+    },
+    {
+      "text": ".",
+      "is_masked": false
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "Before",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "he",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "left",
+      "is_masked": true
+    },
+    {
+      "text": ",",
+      "is_masked": false
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "he",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "had",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "said",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "goodbye",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "to",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "his",
+      "is_masked": true
+    },
+    {
+      "text": " ",
+      "is_masked": false
+    },
+    {
+      "text": "manager",
+      "is_masked": true
+    },
+    {
+      "text": ".",
+      "is_masked": false
+    }
+  ],
+  "audios": [
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/OInD_FMXvj6AsbES/audio/en/blur800L3.mp3",
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/OInD_FMXvj6AsbES/audio/en/blur800.mp3",
+    "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/OInD_FMXvj6AsbES/audio/en/clear.mp3"
+  ]
+}
