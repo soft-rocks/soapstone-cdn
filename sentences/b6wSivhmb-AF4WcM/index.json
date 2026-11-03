@@ -2,12 +2,12 @@
   "link": "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/b6wSivhmb-AF4WcM/index.json",
   "original": "Tom says cats can't swim. That's absolute nonsense.",
   "translations": {
-    "zhtw": "湯姆說貓不會游泳。那完全是胡說八道。"
+    "zhtw": "Tom 說貓不會游泳。那完全是胡說八道。"
   },
   "word_tokens": [
     {
       "text": "Tom",
-      "is_masked": false
+      "is_masked": true
     },
     {
       "text": " ",
