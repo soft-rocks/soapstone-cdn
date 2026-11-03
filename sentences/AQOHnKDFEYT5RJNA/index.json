@@ -2,7 +2,7 @@
   "link": "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/AQOHnKDFEYT5RJNA/index.json",
   "original": "Look, it's Emma in this old photo. She was my best friend at school.",
   "translations": {
-    "zhtw": "你看，這張舊照片裡是艾瑪。她是我學生時代最好的朋友。"
+    "zhtw": "你看，這張舊照片裡是 Emma。她是我學生時代最好的朋友。"
   },
   "word_tokens": [
     {
@@ -35,7 +35,7 @@
     },
     {
       "text": "Emma",
-      "is_masked": false
+      "is_masked": true
     },
     {
       "text": " ",
