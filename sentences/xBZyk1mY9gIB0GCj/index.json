@@ -2,7 +2,7 @@
   "link": "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/xBZyk1mY9gIB0GCj/index.json",
   "original": "I met Sam at the party. Your best friend told me a funny story about you.",
   "translations": {
-    "zhtw": "我在派對上遇到山姆。你最好的朋友跟我講了一件你的趣事。"
+    "zhtw": "我在派對上遇到 Sam。你最好的朋友跟我講了一件你的趣事。"
   },
   "word_tokens": [
     {
@@ -23,7 +23,7 @@
     },
     {
       "text": "Sam",
-      "is_masked": false
+      "is_masked": true
     },
     {
       "text": " ",
