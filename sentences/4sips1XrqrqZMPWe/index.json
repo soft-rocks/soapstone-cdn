@@ -2,7 +2,7 @@
   "link": "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/4sips1XrqrqZMPWe/index.json",
   "original": "My back hurt a little on Monday. The pain got a lot worse after I carried those boxes.",
   "translations": {
-    "zhtw": "我的背星期一有點痛。我搬了那些箱子以後，痛得厲害很多。"
+    "zhtw": "我的背星期一有點痛。我搬了那些箱子以後，痛得更厲害了。"
   },
   "word_tokens": [
     {
@@ -55,7 +55,7 @@
     },
     {
       "text": "Monday",
-      "is_masked": true
+      "is_masked": false
     },
     {
       "text": ".",
