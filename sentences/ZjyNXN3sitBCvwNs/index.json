@@ -2,12 +2,12 @@
   "link": "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/ZjyNXN3sitBCvwNs/index.json",
   "original": "Mr Brown will be with you shortly.",
   "translations": {
-    "zhtw": "布朗先生很快就會來招呼你。"
+    "zhtw": "Brown 先生很快就會來招呼你。"
   },
   "word_tokens": [
     {
       "text": "Mr",
-      "is_masked": true
+      "is_masked": false
     },
     {
       "text": " ",
