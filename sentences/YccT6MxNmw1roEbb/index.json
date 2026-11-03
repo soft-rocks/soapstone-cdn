@@ -2,7 +2,7 @@
   "link": "https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentences/YccT6MxNmw1roEbb/index.json",
   "original": "My dad and Uncle Jim go fishing every summer. They have been best friends since school.",
   "translations": {
-    "zhtw": "我爸爸和吉姆叔叔每年夏天都去釣魚。他們從學生時代就是最好的朋友。"
+    "zhtw": "我爸爸和 Jim 叔叔每年夏天都去釣魚。他們從學生時代就是最好的朋友。"
   },
   "word_tokens": [
     {
@@ -39,7 +39,7 @@
     },
     {
       "text": "Jim",
-      "is_masked": false
+      "is_masked": true
     },
     {
       "text": " ",
